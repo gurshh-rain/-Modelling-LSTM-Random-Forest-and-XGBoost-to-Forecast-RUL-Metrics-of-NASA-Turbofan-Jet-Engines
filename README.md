@@ -1,0 +1,2 @@
+# -Modelling-LSTM-Random-Forest-and-XGBoost-to-Forecast-RUL-Metrics-of-NASA-Turbofan-Jet-Engines
+Predictive maintenance aims to estimate the Remaining Useful Life (RUL) of mechanical systems. This project develops and compares three modelling approaches, Random Forest, XGBoost, and a Long Short-Term Memory (LSTM) neural network, to predict the RUL of turbofan jet engines using NASA's C-MAPSS degradation dataset. 
